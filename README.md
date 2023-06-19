@@ -3,8 +3,8 @@ I am an SRE with a product knack, more into K8S pods then sleep pods. I help dri
 
 ## Let's get connected
 <p align="left">
-<a href="https://www.linkedin.com/in/whoisharsh/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="" height="30" /></a>&nbsp;&nbsp;
-<a href="https://whosharsh.medium.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="" height="30" /></a>
+<a href="https://www.linkedin.com/in/whoisharsh/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="" height="30" /></a>&nbsp;&nbsp;
+<a href="https://whosharsh.medium.com/" target="_blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="" height="30" /></a>
 </p>
 
 <!-- ## My Stats
