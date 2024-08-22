@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Harsh (@harstack)
-I am an SRE with a product knack, more into K8S pods then sleep pods. I help drive the product to address customer requirements, I fix the problems I created few commits back and write articles about my time saving the DAYployment!
+I am an SRE with a product knack, more into K8S pods than sleep pods. I help drive the product to address customer requirements, I fix the problems I created few commits back and write articles about my time saving the DAYployment!
 
 ## Let's get connected
 <p align="left">
