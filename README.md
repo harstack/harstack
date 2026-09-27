@@ -7,9 +7,8 @@ I am an SRE with a product knack, more into K8S pods than sleep pods. I help dri
 <a href="https://whosharsh.medium.com/" target="_blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="" height="30" /></a>
 </p>
 
-<!-- ## My Stats
-I just migrated to this github profile, so please do not judge me! <br>
- [![harstack's GitHub stats](https://github-readme-stats.vercel.app/api?username=harstack)](https://github.com/anuraghazra/github-readme-stats) -->
+## My Stats
+[![harstack's GitHub stats](https://github-readme-stats.vercel.app/api?username=harstack)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Tech Stack
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harstack&layout=compact&langs_count=5)](https://github.com/harstack/github-readme-stats)
